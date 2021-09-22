@@ -72,6 +72,22 @@ body {
   column-gap: 8px;
   align-items: flex-start;
 }
+#container #leftPane #Contact #mail a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+#container #leftPane #Contact #website a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+#container #leftPane #linkedIn a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+#container #leftPane #Contact #gitHub a {
+  text-decoration: none;
+  color: whitesmoke;
+}
 #container #leftPane #Contact #call img {
   width: 11px;
   height: 11px;
