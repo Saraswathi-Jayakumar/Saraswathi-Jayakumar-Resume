@@ -31,7 +31,8 @@ body {
 #container #leftPane #me,
 #name {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 #container #leftPane #me img {
   width: 111px;
